@@ -3,5 +3,6 @@
 	<Activation Status="R2MCAOCNR" Message="" />
 	<FileCode MD5="SVIOSFAFQ3RJIDFUANQI8A9NF" VALVE="Trial Version Expired" />
 	<FileVerify MD5="I8AIDUASVI9FANJOSFFQ3RNQF" VALVE="" />
+	<FileDecode MD5="SVIQ3RNQJO9FANUASFFI8AIDF" VALVE="" />
    
 </AppConfiguration>
