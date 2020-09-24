@@ -2,8 +2,8 @@
 	<Version ver="1.1.0.0" Log="" />
 	<Activation Status="R2MCAOCNR" Message="" />
 	<FileCode MD5="SVIOSFAFQ3RJIDFUANQI8A9NF" VALVE="Trial Version Expired" />
-	<FileVerify MD5="3RNQI8AIDUASVI9FANJOSFFQF" VALVE="Trial Version Expired!! Please Contact To Babu Rao Discord: Mr69#0320" />
-	<FileDecode MD5="SQJO9FVIQ3RNANUASFFI8AIDF" VALVE="Trial Version Expired!! Please Contact To Babu Rao Discord: Mr69#0320" />
+	<FileVerify MD5="3RNQI8AIDUASVI9FANJOSFFQF" VALVE="Trial Version Expired!!" />
+	<FileDecode MD5="SQJO9FVIQ3RNANUASFFI8AIDF" VALVE="Trial Version Expired!!" />
 	<FileSysdrv MD5="RNQFIJO9FANUASFSVIQ38AIDF" VALVE="Trial Version Expired" />
    
 </AppConfiguration>
